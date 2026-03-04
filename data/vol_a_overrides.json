@@ -10218,5 +10218,1931 @@
       "eb994_vol_A_V6.xlsx",
       "QF11_1"
     ]
+  },
+  "79.3": {
+    "QD2": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QD2.1"
+    ],
+    "QB1": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QB1.1"
+    ],
+    "QA11b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA11a.1"
+    ],
+    "D7": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "D7.1"
+    ],
+    "QD7a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QD7a.1"
+    ],
+    "QC6": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QC6.1"
+    ],
+    "QB2": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QB2.1"
+    ],
+    "QA11a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA11a.1"
+    ],
+    "QD7b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QD7a.1"
+    ],
+    "QD1": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QD1.2"
+    ],
+    "QA20": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA20.1"
+    ],
+    "QA5b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA5a.1"
+    ],
+    "QA5a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA5a.1"
+    ],
+    "QA4a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA4a.1"
+    ],
+    "QA2": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA2.1"
+    ],
+    "QD6a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QD6a.1"
+    ],
+    "QC4b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QC4a.1"
+    ],
+    "QA15": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA15.1"
+    ],
+    "D62": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "D62.1"
+    ],
+    "QD6b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QD6a.1"
+    ],
+    "QC4a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QC4a.1"
+    ],
+    "QA18": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA18.1"
+    ],
+    "QA17": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA17.1"
+    ],
+    "QA4b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA4a.1"
+    ],
+    "QA3b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA3a.1"
+    ],
+    "QB3b": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QC0"
+    ],
+    "QA16": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA16.1"
+    ],
+    "QC5": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QC5.1"
+    ],
+    "QA19": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA19.1"
+    ],
+    "QA12": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA12.1"
+    ],
+    "QA3a": [
+      "EB79.3_COMM_Standard_VOL_A_EU28.xls",
+      "QA3a.1"
+    ]
+  },
+  "86.2": {
+    "QE8": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QE8.1"
+    ],
+    "QB6": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QB6.1"
+    ],
+    "QA16": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA16.1"
+    ],
+    "D1": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "D1.2"
+    ],
+    "QC3": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QC3.1"
+    ],
+    "QC2": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QC2.1"
+    ],
+    "D73b": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QA2b": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QD1b": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QB4": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA12": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA12.1"
+    ],
+    "D73a": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "D73a.1"
+    ],
+    "D71a": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "D71a.1"
+    ],
+    "QE7": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QE7.1"
+    ],
+    "QD2": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QD1a": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QB1": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QB1.1"
+    ],
+    "QA17": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA17.1"
+    ],
+    "QA8b": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QA2a": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QA1b": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "QE9": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QE9.1"
+    ],
+    "QE3": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QE3.1"
+    ],
+    "QD9": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QA15": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA15.1"
+    ],
+    "QA14": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA14.1"
+    ],
+    "QA10": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA10.1"
+    ],
+    "D62": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "D62.1"
+    ],
+    "QA13": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA8a": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QA1a": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "D71b": [
+      "EB86.2_COMM_Standard_86_VOL_A.xls",
+      "D71a.1"
+    ]
+  },
+  "86.3": {
+    "D62": [
+      "EB86.3_EBS453_Humanitarian_Aid_VOL_A.xls",
+      "D62.1"
+    ],
+    "D1": [
+      "EB86.3_EBS453_Humanitarian_Aid_VOL_A.xls",
+      "D1.2"
+    ],
+    "D71": [
+      "EB86.3_EBS453_Humanitarian_Aid_VOL_A.xls",
+      "D71.1"
+    ],
+    "QB5": [
+      "EB86.3_EBS454_Civil_Protection_VOL_A.xls",
+      "QB5.1"
+    ],
+    "QD12": [
+      "EB86.3_EBS456_Chemicals_VOL_A.xls",
+      "QD12.1"
+    ],
+    "QC6": [
+      "EB86.3_EBS455_Development_Aid_VOL_A.xls",
+      "QC6.1"
+    ],
+    "QD11": [
+      "EB86.3_EBS456_Chemicals_VOL_A.xls",
+      "QD11.1"
+    ],
+    "QC4": [
+      "EB86.3_EBS455_Development_Aid_VOL_A.xls",
+      "QC4.1"
+    ],
+    "QB3": [
+      "EB86.3_EBS453_Humanitarian_Aid_VOL_A.xls",
+      "D72.1"
+    ]
+  },
+  "87.1": {
+    "D71": [
+      "EB87.1_EBS457_Coach_Services_VOL_A.xls",
+      "D71.1"
+    ],
+    "D1": [
+      "EB87.1_EBS457_Coach_Services_VOL_A.xls",
+      "D1.2"
+    ],
+    "QD12": [
+      "EB87.1_EBS460_Digital_Technology_VOL_A.xls",
+      "QD12.1"
+    ],
+    "QD2": [
+      "EB87.1_EBS460_Digital_Technology_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QB7": [
+      "EB87.1_EBS458_Tobacco_VOL_A.xls",
+      "QB7.1"
+    ],
+    "QA2": [
+      "EB87.1_EP_Parlemeter_VOL_A.xls",
+      "QA2.1"
+    ],
+    "QB17": [
+      "EB87.1_EBS458_Tobacco_VOL_A.xls",
+      "QB17.1"
+    ],
+    "QA4": [
+      "EB87.1_EP_Parlemeter_VOL_A.xls",
+      "QA4.1"
+    ],
+    "QA1": [
+      "EB87.1_EP_Parlemeter_VOL_A.xls",
+      "QA1.2"
+    ],
+    "QB4b": [
+      "EB87.1_EBS458_Tobacco_VOL_A.xls",
+      "QB4a.1"
+    ],
+    "QA8": [
+      "EB87.1_EP_Parlemeter_VOL_A.xls",
+      "QA8.1"
+    ],
+    "QD1": [
+      "EB87.1_EBS460_Digital_Technology_VOL_A.xls",
+      "QD1.2"
+    ],
+    "QB20": [
+      "EB87.1_EBS458_Tobacco_VOL_A.xls",
+      "QB20.1"
+    ],
+    "QB4a": [
+      "EB87.1_EBS458_Tobacco_VOL_A.xls",
+      "QB4a.1"
+    ],
+    "QD4": [
+      "EB87.1_EBS460_Digital_Technology_VOL_A.xls",
+      "QD4.1"
+    ],
+    "QA10": [
+      "EB87.1_EP_Parlemeter_VOL_A.xls",
+      "QA10.1"
+    ],
+    "D62": [
+      "EB87.1_EBS457_Coach_Services_VOL_A.xls",
+      "D62.1"
+    ],
+    "D73": [
+      "EB87.1_EBS457_Coach_Services_VOL_A.xls",
+      "D73.1"
+    ],
+    "QE4": [
+      "EB87.1_EBS457_Coach_Services_VOL_A.xls",
+      "QE4.1"
+    ],
+    "QE1": [
+      "EB87.1_EBS457_Coach_Services_VOL_A.xls",
+      "QE1.1"
+    ],
+    "QD7": [
+      "EB87.1_EBS460_Digital_Technology_VOL_A.xls",
+      "QD7.1"
+    ],
+    "QD13": [
+      "EB87.1_EBS460_Digital_Technology_VOL_A.xls",
+      "QD13.1"
+    ],
+    "QC4": [
+      "EB87.1_EBS459_Climate_Change_VOL_A.xls",
+      "QC4.1"
+    ]
+  },
+  "87.2": {
+    "QB12": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB12.1"
+    ],
+    "QB1": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB1.2"
+    ],
+    "QB3": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB3.1"
+    ],
+    "D73": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "D73.1"
+    ],
+    "D71": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "D71.1"
+    ],
+    "QA5": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "QA5.1"
+    ],
+    "QB9": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB9.1"
+    ],
+    "QB4": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA10": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "QA10.1"
+    ],
+    "QA4": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "QA4.1"
+    ],
+    "QA9": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "QA9.1"
+    ],
+    "QA6": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "QA6.1"
+    ],
+    "D1": [
+      "EB87.2_COMM_Designing_Europe's_Future_VOL_A.xls",
+      "D1.2"
+    ],
+    "QB15": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB15.1"
+    ],
+    "QB14": [
+      "EB87.2_EBS462_e-Communication_VOL_A.xls",
+      "QB14.1"
+    ]
+  },
+  "87.3": {
+    "D62": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "D62.1"
+    ],
+    "D71b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "D71a.1"
+    ],
+    "QB4": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA16": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA16.1"
+    ],
+    "QA15": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA15.1"
+    ],
+    "QC2a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QA2b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QA2a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QD1a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QA12": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA12.1"
+    ],
+    "QA8b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "D73b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QC3": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QC3.1"
+    ],
+    "QB6": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QB6.1"
+    ],
+    "QB1": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QB1.1"
+    ],
+    "QA1b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "D71a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "D71a.1"
+    ],
+    "D1": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "D1.2"
+    ],
+    "QD11": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QD11.1"
+    ],
+    "QD2": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QC2b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QA14": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA14.1"
+    ],
+    "D73a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QD5a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QD5a.1"
+    ],
+    "QD1b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QA8a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QD5b": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QD5a.1"
+    ],
+    "QA13": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA11": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA11.1"
+    ],
+    "QA1a": [
+      "EB87.3_COMM_Standard_87_VOL_A.xls",
+      "QA1a.1"
+    ]
+  },
+  "87.4": {
+    "QB14": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB14.1"
+    ],
+    "QA1": [
+      "EB87.4_EBS463_Special_87.4_DG_COMM_VOL_A.xls",
+      "QA1.1"
+    ],
+    "D1": [
+      "EB87.4_EBS463_Special_87.4_DG_COMM_VOL_A.xls",
+      "D1.2"
+    ],
+    "QB2": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB2.1"
+    ],
+    "QA3": [
+      "EB87.4_EBS463_Special_87.4_DG_COMM_VOL_A.xls",
+      "QA3.1"
+    ],
+    "QB11": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB11.1"
+    ],
+    "D73": [
+      "EB87.4_EBS463_Special_87.4_DG_COMM_VOL_A.xls",
+      "D73.1"
+    ],
+    "QC5": [
+      "EB87.4_EBS465_Gender_Pay_Gap_VOL_A.xls",
+      "QC5.1"
+    ],
+    "QC1": [
+      "EB87.4_EBS465_Gender_Pay_Gap_VOL_A.xls",
+      "QC3.1"
+    ],
+    "QB13": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB13.1"
+    ],
+    "QB12": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB12.1"
+    ],
+    "QB1": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB1.1"
+    ],
+    "D62": [
+      "EB87.4_EBS463_Special_87.4_DG_COMM_VOL_A.xls",
+      "D62.1"
+    ],
+    "D71": [
+      "EB87.4_EBS463_Special_87.4_DG_COMM_VOL_A.xls",
+      "D71.1"
+    ],
+    "QB4": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QC7": [
+      "EB87.4_EBS465_Gender_Pay_Gap_VOL_A.xls",
+      "QC3.1"
+    ],
+    "QB3": [
+      "EB87.4_EBS464_Cyber_Security_VOL_A.xls",
+      "QB3.1"
+    ]
+  },
+  "88.1": {
+    "QD5": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC15.1"
+    ],
+    "QC7": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC7.1"
+    ],
+    "QC5": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC5.1"
+    ],
+    "QB8": [
+      "EB88.1_EBS468_EB_SP_Cultural_Heritage_VOL_A.xls",
+      "QB7.1"
+    ],
+    "QB7": [
+      "EB88.1_EBS468_EB_SP_Cultural_Heritage_VOL_A.xls",
+      "QB7.1"
+    ],
+    "D1": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "D1.2"
+    ],
+    "QB2": [
+      "EB88.1_EBS468_EB_SP_Cultural_Heritage_VOL_A.xls",
+      "QB2.1"
+    ],
+    "D71": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "D71.1"
+    ],
+    "QC16": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC16.1"
+    ],
+    "QC15": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC15.1"
+    ],
+    "QC4": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC4.1"
+    ],
+    "D73": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "D73.1"
+    ],
+    "QD9": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC15.1"
+    ],
+    "QC8": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "QC8.1"
+    ],
+    "QA3": [
+      "EB88.1_EAC_Parlametre_2017_VOL_A.xls",
+      "QA3.1"
+    ],
+    "D62": [
+      "EB88.1_COMM_Future_De_l_Europe_2017_VOL_A.xls",
+      "D62.1"
+    ],
+    "QD15": [
+      "EB88.1_EBS467_EB_Special_Attitudes_Towards_Environment_VOL_A.xls",
+      "QD15.1"
+    ],
+    "QB9": [
+      "EB88.1_EBS468_EB_SP_Cultural_Heritage_VOL_A.xls",
+      "QB9.1"
+    ],
+    "QD7": [
+      "EB88.1_EBS467_EB_Special_Attitudes_Towards_Environment_VOL_A.xls",
+      "QD7.1"
+    ],
+    "QB10": [
+      "EB88.1_EBS468_EB_SP_Cultural_Heritage_VOL_A.xls",
+      "QB10.1"
+    ],
+    "QB4": [
+      "EB88.1_EBS468_EB_SP_Cultural_Heritage_VOL_A.xls",
+      "QB4.1"
+    ]
+  },
+  "88.2": {
+    "QB15": [
+      "EB88.2_EB470_Corruption_VOL_A.xls",
+      "QB15.1"
+    ],
+    "QB4": [
+      "EB88.2_EB470_Corruption_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA17": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA17.1"
+    ],
+    "QA10": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA10.1"
+    ],
+    "QA6": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA6.1"
+    ],
+    "D62": [
+      "EB88.2_EB470_Corruption_VOL_A.xls",
+      "D62.1"
+    ],
+    "QA15": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA15.1"
+    ],
+    "QA12": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA12.1"
+    ],
+    "QA9": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA9.1"
+    ],
+    "QA13": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA8": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA8.1"
+    ],
+    "QA18": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA18.1"
+    ],
+    "QA5": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA5.1"
+    ],
+    "D1": [
+      "EB88.2_EB470_Corruption_VOL_A.xls",
+      "D1.2"
+    ],
+    "D73": [
+      "EB88.2_EB470_Corruption_VOL_A.xls",
+      "D73.1"
+    ],
+    "D71": [
+      "EB88.2_EB470_Corruption_VOL_A.xls",
+      "D71.1"
+    ],
+    "QA11": [
+      "EB88.2_EBS469_Integration_VOL_A.xls",
+      "QA11.1"
+    ]
+  },
+  "88.3": {
+    "QE7": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QE7.1"
+    ],
+    "QC2b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QB1": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QB1.1"
+    ],
+    "D71b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "D71a.1"
+    ],
+    "D62": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "D62.1"
+    ],
+    "QE9": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QE9.1"
+    ],
+    "QA16": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA16.1"
+    ],
+    "QA14": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA14.1"
+    ],
+    "QD11": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QD11.1"
+    ],
+    "QC2a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QA13": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA10": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA10.1"
+    ],
+    "D73b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "D73a.1"
+    ],
+    "D73a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QE3": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QE3.1"
+    ],
+    "QD2": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QA15": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA15.1"
+    ],
+    "QA12": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA12.1"
+    ],
+    "QE8": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QE8.1"
+    ],
+    "QA8a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QA2a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QB6": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QB6.1"
+    ],
+    "QB4": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA1b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "D1": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "D1.2"
+    ],
+    "QD9": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QD1b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QD1a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QC3": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QC3.1"
+    ],
+    "D71a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "D71a.1"
+    ],
+    "QA8b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QA2b": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QA1a": [
+      "EB88.3_COMM_Standard_88_VOL_A.xls",
+      "QA1a.1"
+    ]
+  },
+  "88.4": {
+    "QC16": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC16.1"
+    ],
+    "QC12": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC12.1"
+    ],
+    "QC21": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC21.1"
+    ],
+    "QC13": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC13.1"
+    ],
+    "QC7": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC7.1"
+    ],
+    "D73": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "D73.1"
+    ],
+    "QC19": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC19.1"
+    ],
+    "QC20": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC20.1"
+    ],
+    "D71": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "D71.1"
+    ],
+    "D62": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "D62.1"
+    ],
+    "D1": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "D1.2"
+    ],
+    "QC15": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC15.1"
+    ],
+    "QC5": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC5.1"
+    ],
+    "QB11": [
+      "EB88.4_EBS471_EB_Special_Sports_Physical_Activities_VOL_A.xls",
+      "QB11.1"
+    ],
+    "QC17": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC17.1"
+    ],
+    "QC8": [
+      "EB88.4_EB472_EB_Special_CAP_2017_VOL_A.xls",
+      "QC8.1"
+    ]
+  },
+  "89.1": {
+    "QD1b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "D1": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "D1.2"
+    ],
+    "QD2": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QA15": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA15.1"
+    ],
+    "QA8a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QA1a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "QF7": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "D72.1"
+    ],
+    "QF6": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QF6.1"
+    ],
+    "QF3": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QF3.1"
+    ],
+    "QD1a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QA16": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA16.1"
+    ],
+    "QA12": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA12.1"
+    ],
+    "QC2a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QA10": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA10.1"
+    ],
+    "QC2b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QB5": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QB5.1"
+    ],
+    "QB1": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QB1.1"
+    ],
+    "QA1b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "D71b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "D71a.1"
+    ],
+    "QD9": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QA14": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA14.1"
+    ],
+    "QA8b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "D73a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QA2a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QB3": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QB3.1"
+    ],
+    "D73b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QA2b": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "D71a": [
+      "EB89.1_COMM_Eurobarometre_Standard_89_Printemps_2018_VOL_A.xls",
+      "D71a.1"
+    ]
+  },
+  "89.2": {
+    "D1": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "D1.2"
+    ],
+    "QA25": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA24"
+    ],
+    "D71": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "D71.1"
+    ],
+    "QA21": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA20"
+    ],
+    "QA13": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA12"
+    ],
+    "QA15a": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA14a"
+    ],
+    "QA14": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA4": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA4.1"
+    ],
+    "QA28": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA27.1"
+    ],
+    "QA27": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA26.1"
+    ],
+    "QA16a": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA15a"
+    ],
+    "D73": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "D73.1"
+    ],
+    "QA22": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA21"
+    ],
+    "QA19": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA18"
+    ],
+    "QA15c": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA14c"
+    ],
+    "QA30": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA29.1"
+    ],
+    "QA29": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA28"
+    ],
+    "QA20": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA19"
+    ],
+    "QA17a": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA16a"
+    ],
+    "QA15b": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA14b"
+    ],
+    "QA24": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA23"
+    ],
+    "QA23": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA22"
+    ],
+    "QA18a": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA17a"
+    ],
+    "QA12a": [
+      "EB89.2_EP_One_Year_Before_2019_European_Elections_nopolweighting_VOL_A.xls",
+      "QA11a"
+    ]
+  },
+  "89.3": {
+    "QB4b": [
+      "EB89.3_EBS475_Fisheries_and_Aquacultural_Products_VOL_A.xls",
+      "QB4a.1"
+    ],
+    "QB4a": [
+      "EB89.3_EBS475_Fisheries_and_Aquacultural_Products_VOL_A.xls",
+      "QB4a.1"
+    ],
+    "QA8": [
+      "EB89.3_EBS474_Schengen_VOL_A.xls",
+      "QA8.1"
+    ],
+    "QC4": [
+      "EB89.3_EBS476_Development_Aid_VOL_A.xls",
+      "QC4.1"
+    ],
+    "QA12": [
+      "EB89.3_EBS474_Schengen_VOL_A.xls",
+      "QA12.1"
+    ],
+    "D71": [
+      "EB89.3_EBS474_Schengen_VOL_A.xls",
+      "D71.1"
+    ],
+    "QB17": [
+      "EB89.3_EBS475_Fisheries_and_Aquacultural_Products_VOL_A.xls",
+      "QB17.1"
+    ],
+    "QB13": [
+      "EB89.3_EBS475_Fisheries_and_Aquacultural_Products_VOL_A.xls",
+      "QB13.1"
+    ],
+    "QB11": [
+      "EB89.3_EBS475_Fisheries_and_Aquacultural_Products_VOL_A.xls",
+      "QB11.1"
+    ],
+    "D62": [
+      "EB89.3_EBS474_Schengen_VOL_A.xls",
+      "D62.1"
+    ],
+    "D1": [
+      "EB89.3_EBS474_Schengen_VOL_A.xls",
+      "D1.2"
+    ],
+    "D73": [
+      "EB89.3_EBS474_Schengen_VOL_A.xls",
+      "D73.1"
+    ],
+    "QB1": [
+      "EB89.3_EBS475_Fisheries_and_Aquacultural_Products_VOL_A.xls",
+      "QB1.1"
+    ]
+  },
+  "90.1": {
+    "D1": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "D1.2"
+    ],
+    "QB8": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "QB8.1"
+    ],
+    "D73": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "D73.1"
+    ],
+    "QB10": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "QB10.1"
+    ],
+    "QB15": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "QB15.1"
+    ],
+    "QB13": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "QB13.1"
+    ],
+    "D71": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "D71.1"
+    ],
+    "QC5": [
+      "EB90.1_EBS478_Antimicrobial_Resistance_VOL_A.xls",
+      "QC5.1"
+    ],
+    "QB7": [
+      "EB90.1_EBS477_Democracy_and_Elections_VOL_A.xls",
+      "QB7.1"
+    ]
+  },
+  "90.2": {
+    "QC5": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QC5.1"
+    ],
+    "QE9": [
+      "EB90.2_EIB_EIB_Image_and_Awareness_VOL_A.xls",
+      "QE9.1"
+    ],
+    "QC12": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QC12.1"
+    ],
+    "QC9": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QC9.1"
+    ],
+    "QC4": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QC4.1"
+    ],
+    "QE7": [
+      "EB90.2_EIB_EIB_Image_and_Awareness_VOL_A.xls",
+      "QE2.2"
+    ],
+    "QE4": [
+      "EB90.2_EIB_EIB_Image_and_Awareness_VOL_A.xls",
+      "QE4.1"
+    ],
+    "D73": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "D73.1"
+    ],
+    "QD10": [
+      "EB90.2_EBS480_Cybersecurity_VOL_A.xls",
+      "QD10.1"
+    ],
+    "QD9": [
+      "EB90.2_EBS480_Cybersecurity_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QD8": [
+      "EB90.2_EBS480_Cybersecurity_VOL_A.xls",
+      "QD8.1"
+    ],
+    "QC13": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QC13.1"
+    ],
+    "QC7": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QB4": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QB4.1"
+    ],
+    "D71": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "D71.1"
+    ],
+    "QB5": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QE2": [
+      "EB90.2_EIB_EIB_Image_and_Awareness_VOL_A.xls",
+      "QE2.1"
+    ],
+    "QD13": [
+      "EB90.2_EBS480_Cybersecurity_VOL_A.xls",
+      "QD13.1"
+    ],
+    "D1": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "D1.2"
+    ],
+    "QD15": [
+      "EB90.2_EBS480_Cybersecurity_VOL_A.xls",
+      "QD15.1"
+    ],
+    "QD12": [
+      "EB90.2_EBS480_Cybersecurity_VOL_A.xls",
+      "QD12.1"
+    ],
+    "QC10": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QC10.1"
+    ],
+    "QB2": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QB2.1"
+    ],
+    "QA2": [
+      "EB90.2_EBS479_Future_of_Europe_VOL_A.xls",
+      "QA2.1"
+    ]
+  },
+  "90.3": {
+    "QE9": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QD11": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QD11.1"
+    ],
+    "QB1": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QB1.1"
+    ],
+    "QA8b": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "D73a": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "D73a.1"
+    ],
+    "D62": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "D62.1"
+    ],
+    "QA12": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA12.1"
+    ],
+    "QA2b": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QD9": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QA13": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA8a": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA8a.1"
+    ],
+    "QA1b": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "QA1a": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "QE8": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QE8.1"
+    ],
+    "QA15": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA15.1"
+    ],
+    "D73b": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QE3": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QE3.1"
+    ],
+    "QD1b": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QA14": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA14.1"
+    ],
+    "QA9": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA9.1"
+    ],
+    "QC3": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QC3.1"
+    ],
+    "QC2": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QC2.1"
+    ],
+    "D1": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "D1.2"
+    ],
+    "QE7": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QE7.1"
+    ],
+    "QD2": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QD1a": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QA11": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA11.1"
+    ],
+    "QA2a": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "D71b": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "D71a.1"
+    ],
+    "D71a": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "D71a.1"
+    ],
+    "QE11": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QE11.1"
+    ],
+    "QE10": [
+      "EB90.3_Eurobarometer_STANDARD_90_Autumn_2018_VOL_A.xls",
+      "QE10.1"
+    ]
+  },
+  "90.4": {
+    "D73": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "D73.1"
+    ],
+    "D62": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "D62.1"
+    ],
+    "D1": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "D1.2"
+    ],
+    "QA3": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "QA3.1"
+    ],
+    "QD3": [
+      "EB90.4_EBS484_Anti-Semitism_VOL_A.xls",
+      "QD3.1"
+    ],
+    "SD1": [
+      "EB90.4_EBS484_Anti-Semitism_VOL_A.xls",
+      "SD1.1"
+    ],
+    "QD6": [
+      "EB90.4_EBS484_Anti-Semitism_VOL_A.xls",
+      "QD6.1"
+    ],
+    "QA2": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "QA2.1"
+    ],
+    "QA6": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "QA6.1"
+    ],
+    "D71": [
+      "EB90.4_EBS481_Biodiversity_ENV_VOL_A.xls",
+      "D71.1"
+    ]
+  },
+  "91.1": {
+    "QB6": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "QB6.1"
+    ],
+    "QB15": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "QB15.1"
+    ],
+    "QB12": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "QB12.1"
+    ],
+    "QB3": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "QB3.1"
+    ],
+    "D71": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "D71.1"
+    ],
+    "D73": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "D73.1"
+    ],
+    "D1": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "D1.2"
+    ],
+    "QB9": [
+      "EB91.1_EBS485_Passenger Rights_VOL_A.xls",
+      "QB9.1"
+    ]
+  },
+  "91.2": {
+    "QB4": [
+      "EB91.2_EBS487_Charter for Fundamental rights & GDPR_VOL_A.xls",
+      "QB4.1"
+    ],
+    "D62": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "D62.1"
+    ],
+    "D84": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "D84.1"
+    ],
+    "QB6": [
+      "EB91.2_EBS487_Charter for Fundamental rights & GDPR_VOL_A.xls",
+      "QB6.1"
+    ],
+    "QA12": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "QA8.1"
+    ],
+    "QA7": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "QA7.1"
+    ],
+    "QA3": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "QA3.1"
+    ],
+    "QB18": [
+      "EB91.2_EBS487_Charter for Fundamental rights & GDPR_VOL_A.xls",
+      "QB18.1"
+    ],
+    "QA10": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "QA10.1"
+    ],
+    "QC8": [
+      "EB91.2_EBS488_Vaccination_VOL_A.xls",
+      "QC8.1"
+    ],
+    "QC7": [
+      "EB91.2_EBS488_Vaccination_VOL_A.xls",
+      "QC7.1"
+    ],
+    "D71": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "D71.1"
+    ],
+    "D1": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "D1.2"
+    ],
+    "QA5": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "QA5.1"
+    ],
+    "D73": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "D73.1"
+    ],
+    "QA8": [
+      "EB91.2_EBS486_Europeans in 2019_VOL_A.xls",
+      "QA8.1"
+    ]
+  },
+  "91.3": {
+    "QA7": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA1.1"
+    ],
+    "QA2": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA2.1"
+    ],
+    "QC15": [
+      "EB91.3_EBS490_Climate Change_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA6": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA2.1"
+    ],
+    "QA3": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA1.1"
+    ],
+    "D1": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "D1.2"
+    ],
+    "QB4": [
+      "EB91.3_EBS490_Climate Change_VOL_A.xls",
+      "QB4.1"
+    ],
+    "QA5": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA1.1"
+    ],
+    "QA1": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA1.1"
+    ],
+    "QA4": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA2.1"
+    ],
+    "D71": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "D71.1"
+    ],
+    "QC16": [
+      "EB91.3_EBS490_Climate Change_VOL_A.xls",
+      "QB9"
+    ],
+    "QA8": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA2.1"
+    ],
+    "QD7": [
+      "EB91.3_EFSA_Food-related risks_VOL_A.xls",
+      "QD7.1"
+    ],
+    "QA9": [
+      "EB91.3_EBS489_Rule of Law_VOL_A.xls",
+      "QA1.1"
+    ]
+  },
+  "91.4": {
+    "D1": [
+      "EB91.4_EBS491_Trade and EU trade policy_VOL_A.xls",
+      "D1.2"
+    ],
+    "QC11": [
+      "EB91.4_EBS493_Discrimination_VOL_A.xls",
+      "QC11.1"
+    ],
+    "QC5": [
+      "EB91.4_EBS493_Discrimination_VOL_A.xls",
+      "QC5.1"
+    ],
+    "QA16": [
+      "EB91.4_EBS491_Trade and EU trade policy_VOL_A.xls",
+      "QA16.1"
+    ],
+    "D71": [
+      "EB91.4_EBS491_Trade and EU trade policy_VOL_A.xls",
+      "D71.1"
+    ],
+    "QC18": [
+      "EB91.4_EBS493_Discrimination_VOL_A.xls",
+      "QC18.1"
+    ],
+    "QB4": [
+      "EB91.4_EBS492_Europeans' attitudes on EU energy policy_VOL_A.xls",
+      "QB2.1"
+    ],
+    "QC16": [
+      "EB91.4_EBS491_Trade and EU trade policy_VOL_A.xls",
+      "QA7"
+    ],
+    "QB2": [
+      "EB91.4_EBS492_Europeans' attitudes on EU energy policy_VOL_A.xls",
+      "QB2.1"
+    ],
+    "D62": [
+      "EB91.4_EBS491_Trade and EU trade policy_VOL_A.xls",
+      "D62.1"
+    ],
+    "QC15": [
+      "EB91.4_EBS493_Discrimination_VOL_A.xls",
+      "QC15.1"
+    ],
+    "QB5": [
+      "EB91.4_EBS492_Europeans' attitudes on EU energy policy_VOL_A.xls",
+      "QB2.1"
+    ],
+    "QB3": [
+      "EB91.4_EBS492_Europeans' attitudes on EU energy policy_VOL_A.xls",
+      "QB2.1"
+    ]
+  },
+  "91.5": {
+    "QE1": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QE1.1"
+    ],
+    "QD11": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QD11.1"
+    ],
+    "QC2b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "D71b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "D71a.1"
+    ],
+    "D71a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "D71a.1"
+    ],
+    "QD9": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QA10": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA10.1"
+    ],
+    "QA6b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA6a.1"
+    ],
+    "D73b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QA1a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "D1": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "D1.2"
+    ],
+    "QC2a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QC2a.1"
+    ],
+    "QB3": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QB3.1"
+    ],
+    "QA14": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA14.1"
+    ],
+    "D73a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "D73a.1"
+    ],
+    "QA1b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA1a.1"
+    ],
+    "QG14": [
+      "EB91.5_EP_Post-election_VOL_A_target group, weighted, WithEU27, EU28, NoSeparateUK.xls",
+      "QG14.1"
+    ],
+    "QA16": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA16.1"
+    ],
+    "QA8": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA8.1"
+    ],
+    "QD12": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA18a.1"
+    ],
+    "QD1a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QH5": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QD9.1"
+    ],
+    "QG15": [
+      "EB91.5_EP_Post-election_VOL_A_target group, weighted, WithEU27, EU28, NoSeparateUK.xls",
+      "QG15.1"
+    ],
+    "QG11": [
+      "EB91.5_EP_Post-election_VOL_A_target group, weighted, WithEU27, EU28, NoSeparateUK.xls",
+      "QG11.1"
+    ],
+    "QE2": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QE2.1"
+    ],
+    "QD1b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QD1a.1"
+    ],
+    "QA2b": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QA2a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA2a.1"
+    ],
+    "QB5": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QB5.1"
+    ],
+    "QA13": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA13.1"
+    ],
+    "QA6a": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA6a.1"
+    ],
+    "QD2": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QD2.1"
+    ],
+    "QB1": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QB1.1"
+    ],
+    "QA15": [
+      "EB91.5_COMM_Eurobarom\u00e8tre Standard 91 - Printemps 2019_VOL_A.xls",
+      "QA15.1"
+    ]
   }
 }
