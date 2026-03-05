@@ -98,7 +98,7 @@ def _hf_api_encode(texts):
         _HF_API_URL,
         headers={"Authorization": f"Bearer {HF_API_TOKEN}"},
         json={"inputs": texts, "options": {"wait_for_model": True}},
-        timeout=120,
+        timeout=15,
     )
     resp.raise_for_status()
     vecs = np.array(resp.json(), dtype=np.float32)
@@ -179,17 +179,24 @@ def _encode_texts_cached(texts):
 
 _INDEX_CACHE = None
 _INDEX_LOCK = threading.Lock()
+_INDEX_BUILD_FAILED = False  # True after a failed build — stops per-request retries
 
 
 def _build_index(_conn_factory):
     """Build or load a pre-computed embedding matrix for every row in the DB.
     Thread-safe: only one rebuild runs at a time; all other callers wait."""
-    global _INDEX_CACHE
+    global _INDEX_CACHE, _INDEX_BUILD_FAILED
     if _INDEX_CACHE is not None:
         return _INDEX_CACHE
+    # If a previous build attempt failed, don't retry on every request —
+    # raise immediately so the caller can return empty results fast.
+    if _INDEX_BUILD_FAILED:
+        raise RuntimeError("Semantic index unavailable (previous build failed)")
     with _INDEX_LOCK:
         if _INDEX_CACHE is not None:  # another thread finished while we waited
             return _INDEX_CACHE
+        if _INDEX_BUILD_FAILED:
+            raise RuntimeError("Semantic index unavailable (previous build failed)")
 
         index_path = os.path.join(INDEX_DIR, "semantic_index.npz")
 
@@ -210,43 +217,47 @@ def _build_index(_conn_factory):
                 print(f"[semantic] Failed to load npz ({index_path}): {e}", flush=True)
 
         # Rebuild: query DuckDB and re-encode
-        from data_store import get_conn, ensure_table
-
-        con = _conn_factory()
         try:
-            ensure_table(con)
-            df = con.execute("""
-                SELECT rowid AS rid,
-                       COALESCE(CAST("Question(s)" AS VARCHAR), '') AS q,
-                       COALESCE(CAST("Answer(s)" AS VARCHAR), '') AS a
-                FROM enes
-            """).fetchdf()
-        finally:
-            con.close()
+            from data_store import get_conn, ensure_table
 
-        row_ids = df["rid"].values.astype(np.int64)
-        texts = (df["q"].str.strip() + " " + df["a"].str.strip()).tolist()
+            con = _conn_factory()
+            try:
+                ensure_table(con)
+                df = con.execute("""
+                    SELECT rowid AS rid,
+                           COALESCE(CAST("Question(s)" AS VARCHAR), '') AS q,
+                           COALESCE(CAST("Answer(s)" AS VARCHAR), '') AS a
+                    FROM enes
+                """).fetchdf()
+            finally:
+                con.close()
 
-        print(f"[semantic] Rebuilding index for {len(texts)} rows...", flush=True)
+            row_ids = df["rid"].values.astype(np.int64)
+            texts = (df["q"].str.strip() + " " + df["a"].str.strip()).tolist()
 
-        if HF_API_TOKEN:
-            all_vecs = []
-            for i in range(0, len(texts), 64):
-                all_vecs.append(_hf_api_encode(texts[i:i + 64]))
-            embeddings = np.vstack(all_vecs)
-        else:
-            model = _load_model()
-            embeddings = model.encode(
-                texts,
-                show_progress_bar=True,
-                batch_size=128,
-                normalize_embeddings=True,
-            ).astype(np.float32)
+            print(f"[semantic] Rebuilding index for {len(texts)} rows...", flush=True)
 
-        np.savez(index_path, row_ids=row_ids, embeddings=embeddings)
-        result = row_ids, embeddings
-        _INDEX_CACHE = result
-        return result
+            if HF_API_TOKEN:
+                all_vecs = []
+                for i in range(0, len(texts), 64):
+                    all_vecs.append(_hf_api_encode(texts[i:i + 64]))
+                embeddings = np.vstack(all_vecs)
+            else:
+                model = _load_model()
+                embeddings = model.encode(
+                    texts,
+                    show_progress_bar=True,
+                    batch_size=128,
+                    normalize_embeddings=True,
+                ).astype(np.float32)
+
+            np.savez(index_path, row_ids=row_ids, embeddings=embeddings)
+            result = row_ids, embeddings
+            _INDEX_CACHE = result
+            return result
+        except Exception:
+            _INDEX_BUILD_FAILED = True
+            raise
 
 
 @lru_cache(maxsize=256)

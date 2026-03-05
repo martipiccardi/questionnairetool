@@ -88,9 +88,12 @@ def _warmup_vola():
 
 def _warmup_semantic():
     """Pre-load the embedding index from disk and pre-warm the encoding pipeline."""
+    import semantic_search as _ss
     from semantic_search import _load_term_cache, _build_index, _encode_texts, _get_full_vocab, HF_API_TOKEN
     from data_store import get_conn
     try:
+        # Reset failed flag so startup always gets a fresh attempt
+        _ss._INDEX_BUILD_FAILED = False
         _load_term_cache()
         _build_index(get_conn)
         # Pre-warm the encoding pipeline (tests HF API or loads local model)
