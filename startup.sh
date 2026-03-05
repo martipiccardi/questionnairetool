@@ -12,11 +12,18 @@ if [ ! -f "$VENV/bin/activate" ]; then
 fi
 source "$VENV/bin/activate"
 
-# Install deps (sentence-transformers for local model inference)
-if ! python -c "import sentence_transformers" 2>/dev/null; then
-    echo "Installing dependencies (first startup may take ~7 min)..."
+# Install core deps (always needed)
+if ! python -c "import fastapi" 2>/dev/null; then
+    echo "Installing core dependencies..."
+    pip install --no-cache-dir pandas==2.2.2 openpyxl==3.1.5 xlrd==2.0.1 duckdb==1.0.0 pyarrow==17.0.0 fastapi==0.115.0 "uvicorn[standard]==0.30.6" numpy
+fi
+
+# Only install torch + sentence-transformers if NOT using HF API
+# (HF_API_TOKEN means we call the remote API, no local model needed)
+if [ -z "$HF_API_TOKEN" ] && ! python -c "import sentence_transformers" 2>/dev/null; then
+    echo "Installing sentence-transformers (local model, may take ~7 min)..."
     pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
-    pip install --no-cache-dir sentence-transformers pandas==2.2.2 openpyxl==3.1.5 xlrd==2.0.1 duckdb==1.0.0 pyarrow==17.0.0 fastapi==0.115.0 "uvicorn[standard]==0.30.6" numpy
+    pip install --no-cache-dir sentence-transformers
 fi
 
 # xlrd needed for .xls Volume A files — install if missing
